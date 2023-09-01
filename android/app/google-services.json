@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "315511660003",
+    "project_id": "arkroot-7f923",
+    "storage_bucket": "arkroot-7f923.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315511660003:android:0259d4ff1305930164d4d6",
+        "android_client_info": {
+          "package_name": "com.example.arkroot_to_do"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315511660003-r15urk2s3a68n4f40eoe6as9em3gpnfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNex2epsd2mDHiVu3Owmv01-c8nP3f0gU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315511660003-r15urk2s3a68n4f40eoe6as9em3gpnfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
